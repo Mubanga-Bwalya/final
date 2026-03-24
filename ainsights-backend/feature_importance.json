@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "cat__JobRole_Research Director",
+    "importance": 1.1895499567501118
+  },
+  {
+    "feature": "cat__JobRole_Sales Representative",
+    "importance": 0.9717010064474997
+  },
+  {
+    "feature": "cat__BusinessTravel_Non-Travel",
+    "importance": 0.9436284683055982
+  },
+  {
+    "feature": "cat__OverTime_No",
+    "importance": 0.9204982408937523
+  },
+  {
+    "feature": "cat__OverTime_Yes",
+    "importance": 0.809236715670538
+  },
+  {
+    "feature": "cat__JobRole_Laboratory Technician",
+    "importance": 0.785304274171752
+  },
+  {
+    "feature": "cat__BusinessTravel_Travel_Frequently",
+    "importance": 0.7731243954803019
+  },
+  {
+    "feature": "cat__JobRole_Human Resources",
+    "importance": 0.7552566333406913
+  },
+  {
+    "feature": "num__YearsAtCompany",
+    "importance": 0.7111051495620949
+  },
+  {
+    "feature": "cat__EducationField_Technical Degree",
+    "importance": 0.6637010468683218
+  }
+]
